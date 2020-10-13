@@ -1,8 +1,7 @@
 
 package gimnasio;
 
-//Esto es un comentario de prueba para el repositorio 
-//Afanador te amo
+//(sin comentarios)*se ofende*.
 
 public class Gimnasio {
     
